@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Read(./**)",
+      "Write(./episodes/**)",
+      "Edit(./editorial-notes.md)",
+      "Bash(python3 tts.py *)",
+      "Bash(python3 publish.py *)",
+      "Bash(wc *)",
+      "Bash(date *)",
+      "Bash(ls *)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Edit(./tts.py)",
+      "Edit(./publish.py)",
+      "Edit(./cover.py)"
+    ]
+  }
+}

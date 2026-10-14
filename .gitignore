@@ -1,0 +1,8 @@
+.env
+.links.json
+feed.xml
+episodes/*
+!episodes/.gitkeep
+cover.jpg
+.claude/settings.local.json
+.DS_Store

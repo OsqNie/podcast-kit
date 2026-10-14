@@ -1,0 +1,17 @@
+{
+  "configured": false,
+  "title": "",
+  "tagline": "",
+  "description": "",
+  "author": "",
+  "language": "en",
+  "timezone": "Europe/Helsinki",
+  "schedule": "Mon, Wed, Fri 06:30",
+  "length_minutes": 5,
+  "voice_id": "",
+  "model_id": "eleven_v4",
+  "dropbox_base": "",
+  "keep_episodes": 30,
+  "include_script_in_feed": true,
+  "cover": {"bg_top": "#0B1424", "bg_bottom": "#0E1828", "accent": "#ECAA48", "text": "#F4EEE4"}
+}
